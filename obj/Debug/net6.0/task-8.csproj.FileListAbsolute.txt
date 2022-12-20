@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/task-8/bin/Debug/net6.0/task-8
+/Users/user/Documents/GitHub/task-8/bin/Debug/net6.0/task-8.deps.json
+/Users/user/Documents/GitHub/task-8/bin/Debug/net6.0/task-8.runtimeconfig.json
+/Users/user/Documents/GitHub/task-8/bin/Debug/net6.0/task-8.dll
+/Users/user/Documents/GitHub/task-8/bin/Debug/net6.0/task-8.pdb
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.AssemblyInfo.cs
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.dll
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/refint/task-8.dll
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.pdb
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/task-8.genruntimeconfig.cache
+/Users/user/Documents/GitHub/task-8/obj/Debug/net6.0/ref/task-8.dll
